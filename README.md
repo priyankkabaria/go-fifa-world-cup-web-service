@@ -1,3 +1,5 @@
+# Credit goes to Pluralsight project for the base setup to write the handlers for the service
+
 # FIFA World Cup Winners
 
 This project exposes a Web API for accessing historic data from
